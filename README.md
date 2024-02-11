@@ -2,7 +2,7 @@
 ---
 #### Simples e amigavel!  
 
-Este projeto nasceu quando em minhas aventuras no mercado, tinha que usar o celular para calcular o preço dos produtos e as vezes era dificultoso editar o valor caso, desistisse de um produto. Foi em então que tive a idéia, como nao sou muito bom desenvolvedor e ainda estou caminhando no aprendizado, usei da ajuda do **ChatGPT** para construir o código `html` e a funcionalidade em `Js`. Bem, foi um trabalho árduo, mesmo com a ajuda, enfim, deu certo e aí está para me ajudar e ajudar a todos no momento daquelas comprinhas do mês!
+&nbsp;&nbsp;&nbsp;&nbsp;Este projeto nasceu quando em minhas aventuras no mercado, tinha que usar o celular para calcular o preço dos produtos e as vezes era dificultoso editar o valor caso, desistisse de um produto. Foi em então que tive a idéia, como nao sou muito bom desenvolvedor e ainda estou caminhando no aprendizado, usei da ajuda do **ChatGPT** para construir o código `html` e a funcionalidade em `Js`. Bem, foi um trabalho árduo, mesmo com a ajuda, enfim, deu certo e aí está para me ajudar e ajudar a todos no momento daquelas comprinhas do mês!
 
 #### Novidades:
 

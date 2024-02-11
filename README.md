@@ -8,7 +8,7 @@
 
 1. Na última atualização, consegui fazer funcionar a função de salvar em planilha, agora, em excel, o valor total.
 
-2. Melhorias na interface do usuário, deixando a experiência mais amigável e atrativa, de fácil entendimento. se
+2. Melhorias na interface do usuário, deixando a experiência mais amigável e atrativa, de fácil entendimento.  
 
 #### Considerações Finais:
 

@@ -18,4 +18,10 @@ Quero agradecer a todos que usarem esse projeto, podem ficar a vontade para clon
 
 ![20240211_103001_790](https://github.com/cleitonbass/lista-de-compras/assets/71930374/78b8acda-044e-4d38-8659-4a7803de4314)
 
-![20240211_103640_181](https://github.com/cleitonbass/lista-de-compras/assets/71930374/f5736e21-1b5b-43ad-a41f-80d2fbec3d4d)
+![20240211_103640_181](https://github.com/cleitonbass/lista-de-compras/assets/71930374/f5736e21-1b5b-43ad-a41f-80d2fbec3d4d)  
+
+***  
+
+#### Você pode testar aqui: 👇🏻  
+
+🌐 [Calculadora de Mercado - MRKALC](https://cleitonbass.github.io/mrkalc/"Mrkalc")
